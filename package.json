@@ -10,5 +10,17 @@
   "devDependencies": {
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.10.1"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nunderns/playwright-tests.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nunderns/playwright-tests/issues"
+  },
+  "homepage": "https://github.com/Nunderns/playwright-tests#readme"
 }
