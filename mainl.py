@@ -1,1 +1,1 @@
-print("Uma nova alteração para nós podermos testar o git")
+print("Uma nova alteração para nós ")
