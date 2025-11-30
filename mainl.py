@@ -1,1 +1,1 @@
-print("Uma nova alteração para nós ")
+1 + 1 = 2
